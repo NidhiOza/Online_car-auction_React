@@ -1,0 +1,19 @@
+.innerpage-content .graph{
+    padding: 5px !important ;
+}
+.ct-grids{
+    width: 300px !important;
+}
+/* .connectBack {
+    background-image:url( '../images/hightlight-img.jpg');
+} */
+.ct-series-a .ct-slice-pie, .ct-series-a .ct-slice-donut-solid, .ct-series-a .ct-area {
+    fill: #81a8f8 !important;;
+}
+.ct-line,.ct-point{
+    stroke: black !important;
+}
+.ct-area {
+fill-opacity: .5 !important;
+}
+
